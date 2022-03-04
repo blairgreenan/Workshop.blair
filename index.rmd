@@ -1,5 +1,5 @@
 ---
-title: "Blair's title"
+title: "Kevin's title"
 author: "Blair Greenan"
 date: "3/4/2022"
 output: html_document
@@ -8,6 +8,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## New section 
+
+Some text 
 
 ## R Markdown
 
